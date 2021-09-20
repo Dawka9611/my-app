@@ -1,0 +1,11 @@
+  
+.icons{
+    display: inline;
+    float: left;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+}
+.icons:hover{
+    transform: scale(1.025);
+}

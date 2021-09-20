@@ -1,0 +1,16 @@
+.itemContainer{
+    background-color: #fff;
+    width: 230px;
+    border-radius: 3px;
+    background-color: #2c2c7c;
+    float: left;
+}
+.item{
+    background-color: #2c2c7c;
+    border: none;
+    width: 200px;
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+}

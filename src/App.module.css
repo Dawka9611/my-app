@@ -1,0 +1,16 @@
+.App {
+    width: 100wv;
+    height: 100vh;
+    display: flex;
+    background-image: url(images/bg.png);
+    background-size: cover;
+}
+
+.sidebarContainer {
+    border: none;
+}
+
+.pagesContainer {
+    flex-grow: 1;
+    margin-left: 20px;
+}

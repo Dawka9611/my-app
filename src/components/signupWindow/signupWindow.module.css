@@ -1,0 +1,35 @@
+.signupContainer{
+    display: flex;
+    justify-content: center;
+   
+  margin: auto auto auto auto;
+    padding: 20px;
+}
+.signup{
+    padding: 20px;
+    margin-top: 250px;
+    width: 300px;
+    height: auto;
+    border: none;
+    box-shadow: 0 2px 2px grey;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.input{
+    margin: 20px auto 0 auto;
+    display: block;
+    width: 260px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+.signupForm{
+    text-align: center;
+    padding: 10px;
+    align-content: center;
+}
+.link{
+    font-size: 11px;
+    color: #2c2c7c;
+    margin-top: 20px;
+}
